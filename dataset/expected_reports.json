@@ -4,7 +4,7 @@
     "as_of": "2027-02-01",
     "report": {
       "tool": "NFT Collection Announcement Analyzer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "project": {
         "project_name": "MetaPixel Creatures",
         "symbol": "MPC",
@@ -212,7 +212,7 @@
     "as_of": "2027-02-01",
     "report": {
       "tool": "NFT Collection Announcement Analyzer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "project": {
         "project_name": "PixelVerse Legends",
         "symbol": "PVL",
@@ -425,7 +425,7 @@
     "as_of": "2027-02-01",
     "report": {
       "tool": "NFT Collection Announcement Analyzer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "project": {
         "project_name": "Digital Art Society",
         "symbol": "DAS",
