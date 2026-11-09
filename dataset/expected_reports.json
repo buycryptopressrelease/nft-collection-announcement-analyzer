@@ -1,5 +1,627 @@
 [
-{"sample_id": 1, "as_of": "2027-02-01", "report": {"tool": "NFT Collection Announcement Analyzer", "version": "1.0.0", "project": {"project_name": "MetaPixel Creatures", "symbol": "MPC", "website": "https://metapixel.example", "blockchain": "Ethereum", "nft_standard": "ERC-721", "collection_type": "Generative Art", "marketplace": "OpenSea", "mint_price": "0.05 ETH"}, "supply": {"total": 5000, "minted": 1200, "remaining": 3800, "minted_percent": 24.0, "status": "Minting"}, "traits": {"count": 8, "names": ["Background", "Body", "Eyes", "Headwear", "Clothing", "Mouth", "Accessories", "Special Effects"]}, "schedule": {"as_of": "2027-02-01", "mint": {"date": "2027-02-15", "days_from_today": 14, "status": "Upcoming"}, "reveal": {"date": "2027-02-20", "days_from_today": 19, "status": "Upcoming"}, "days_mint_to_reveal": 5}, "utility": ["Holder membership", "Digital collectibles", "Community access"], "milestones": {"Completed": [{"title": "Collection Website Launch", "date": "2027-01-10"}], "Upcoming": [{"title": "NFT Mint Opening", "date": "2027-02-15"}, {"title": "Collection Reveal", "date": "2027-02-20"}], "Planned": []}, "angles": ["NFT mint schedule announcement", "Mint progress update", "Collection reveal announcement", "Generative Art collection introduction", "Trait and artwork design reveal", "Holder utility and community benefits", "Milestone achieved: Collection Website Launch", "Roadmap update", "Launch on Ethereum"], "headlines": ["MetaPixel Creatures Sets February 15, 2027 Public Mint Date for Its 5,000 Piece Generative Art NFT Collection on Ethereum", "MetaPixel Creatures Reaches 1,200 Minted of 5,000 NFTs", "MetaPixel Creatures Shares NFT Mint and Collection Reveal Schedule", "MetaPixel Creatures Introduces Eight Trait Categories for Its Generative Art Collection", "MetaPixel Creatures Announces Collection Website Launch", "MetaPixel Creatures Outlines Holder Benefits Including Holder Membership"], "topics": ["NFT collection launch announcement", "Upcoming mint date announcement", "Mint progress and community update", "Generative Art project introduction", "NFT utility and community announcement", "Milestone and partnership announcement", "Roadmap announcement"], "outline": [{"section": "Headline", "text": "MetaPixel Creatures Sets February 15, 2027 Public Mint Date for Its 5,000 Piece Generative Art NFT Collection on Ethereum"}, {"section": "Subheadline", "text": "MetaPixel Creatures: 5,000 NFT collection, built on Ethereum (ERC-721), listed on OpenSea"}, {"section": "Dateline", "text": "[CITY], [DATE]"}, {"section": "Opening paragraph", "text": "MetaPixel Creatures (MPC), a Generative Art collection on Ethereum, is scheduled to open its mint on February 15, 2027."}, {"section": "Collection details", "text": "Total supply: 5,000; Minted: 1,200 (24.0%); Mint price: 0.05 ETH; Marketplace: OpenSea"}, {"section": "Art and traits", "text": "8 trait categories: Background, Body, Eyes, Headwear, Clothing, Mouth, Accessories, Special Effects"}, {"section": "Schedule", "text": "Mint: February 15, 2027; Reveal: February 20, 2027"}, {"section": "Utility (project stated)", "text": "Holder membership; Digital collectibles; Community access"}, {"section": "Roadmap", "text": "Completed: Collection Website Launch | Upcoming: NFT Mint Opening; Collection Reveal"}, {"section": "Quote", "text": "[Quote from the MetaPixel Creatures founder or lead artist]"}, {"section": "About", "text": "About MetaPixel Creatures: [two sentences] Website: https://metapixel.example"}, {"section": "Media contact", "text": "[Name, email, website]"}, {"section": "Disclaimer", "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."}], "facts": [{"statement": "Total supply is 5,000", "type": "Project data"}, {"statement": "1,200 NFTs minted as of 2027-02-01", "type": "Project data, verify on chain"}, {"statement": "Mint date 2027-02-15", "type": "Scheduled"}, {"statement": "Reveal date 2027-02-20", "type": "Scheduled"}, {"statement": "Collection Website Launch", "type": "Completed, keep proof ready"}, {"statement": "NFT Mint Opening", "type": "Upcoming, describe as scheduled"}, {"statement": "Collection Reveal", "type": "Upcoming, describe as scheduled"}, {"statement": "Holder membership", "type": "Project claim"}, {"statement": "Digital collectibles", "type": "Project claim"}, {"statement": "Community access", "type": "Project claim"}], "warnings": ["Minted supply is above zero but the mint date is in the future. If this is a presale or allowlist mint, say so in the release; otherwise check the numbers."], "distribution": {"label": "NFT Project PR", "url": "https://buycryptopressrelease.com/nft-project-pr/", "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."}}},
-{"sample_id": 2, "as_of": "2027-02-01", "report": {"tool": "NFT Collection Announcement Analyzer", "version": "1.0.0", "project": {"project_name": "PixelVerse Legends", "symbol": "PVL", "website": "https://pixelverse.example", "blockchain": "Polygon", "nft_standard": "ERC-721", "collection_type": "Gaming NFT", "marketplace": "OpenSea", "mint_price": "25 MATIC"}, "supply": {"total": 10000, "minted": 3500, "remaining": 6500, "minted_percent": 35.0, "status": "Minting"}, "traits": {"count": 12, "names": ["Character Class", "Armor", "Weapon", "Power", "Background", "Level", "Accessories", "Skill", "Element", "Helmet", "Pet", "Special Item"]}, "schedule": {"as_of": "2027-02-01", "mint": {"date": "2027-03-10", "days_from_today": 37, "status": "Upcoming"}, "reveal": {"date": "2027-03-15", "days_from_today": 42, "status": "Upcoming"}, "days_mint_to_reveal": 5}, "utility": ["In-game character access", "Digital rewards", "Gaming community membership"], "milestones": {"Completed": [{"title": "Game Beta Release", "date": "2027-01-20"}], "Upcoming": [{"title": "NFT Collection Launch", "date": "2027-03-10"}], "Planned": [{"title": "Gaming Marketplace Integration", "date": "2027-04-01"}]}, "angles": ["NFT mint schedule announcement", "Mint progress update", "Collection reveal announcement", "Blockchain gaming collection introduction", "Trait and artwork design reveal", "Holder utility and community benefits", "Milestone achieved: Game Beta Release", "Roadmap update", "Launch on Polygon"], "headlines": ["PixelVerse Legends Sets March 10, 2027 Public Mint Date for Its 10,000 Piece Gaming NFT Collection on Polygon", "PixelVerse Legends Reaches 3,500 Minted of 10,000 NFTs", "PixelVerse Legends Shares NFT Mint and Collection Reveal Schedule", "PixelVerse Legends Introduces Twelve Trait Categories for Its Gaming NFT Collection", "PixelVerse Legends Announces Game Beta Release", "PixelVerse Legends Shares Roadmap Including Gaming Marketplace Integration"], "topics": ["NFT collection launch announcement", "Upcoming mint date announcement", "Mint progress and community update", "Gaming NFT project introduction", "NFT utility and community announcement", "Milestone and partnership announcement", "Roadmap announcement"], "outline": [{"section": "Headline", "text": "PixelVerse Legends Sets March 10, 2027 Public Mint Date for Its 10,000 Piece Gaming NFT Collection on Polygon"}, {"section": "Subheadline", "text": "PixelVerse Legends: 10,000 NFT collection, built on Polygon (ERC-721), listed on OpenSea"}, {"section": "Dateline", "text": "[CITY], [DATE]"}, {"section": "Opening paragraph", "text": "PixelVerse Legends (PVL), a Gaming NFT collection on Polygon, is scheduled to open its mint on March 10, 2027."}, {"section": "Collection details", "text": "Total supply: 10,000; Minted: 3,500 (35.0%); Mint price: 25 MATIC; Marketplace: OpenSea"}, {"section": "Art and traits", "text": "12 trait categories: Character Class, Armor, Weapon, Power, Background, Level, Accessories, Skill, Element, Helmet, Pet, Special Item"}, {"section": "Schedule", "text": "Mint: March 10, 2027; Reveal: March 15, 2027"}, {"section": "Utility (project stated)", "text": "In-game character access; Digital rewards; Gaming community membership"}, {"section": "Roadmap", "text": "Completed: Game Beta Release | Upcoming: NFT Collection Launch | Planned: Gaming Marketplace Integration"}, {"section": "Quote", "text": "[Quote from the PixelVerse Legends founder or lead artist]"}, {"section": "About", "text": "About PixelVerse Legends: [two sentences] Website: https://pixelverse.example"}, {"section": "Media contact", "text": "[Name, email, website]"}, {"section": "Disclaimer", "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."}], "facts": [{"statement": "Total supply is 10,000", "type": "Project data"}, {"statement": "3,500 NFTs minted as of 2027-02-01", "type": "Project data, verify on chain"}, {"statement": "Mint date 2027-03-10", "type": "Scheduled"}, {"statement": "Reveal date 2027-03-15", "type": "Scheduled"}, {"statement": "Game Beta Release", "type": "Completed, keep proof ready"}, {"statement": "NFT Collection Launch", "type": "Upcoming, describe as scheduled"}, {"statement": "Gaming Marketplace Integration", "type": "Planned, describe as a plan"}, {"statement": "In-game character access", "type": "Project claim"}, {"statement": "Digital rewards", "type": "Project claim"}, {"statement": "Gaming community membership", "type": "Project claim"}], "warnings": ["Minted supply is above zero but the mint date is in the future. If this is a presale or allowlist mint, say so in the release; otherwise check the numbers."], "distribution": {"label": "NFT Project PR", "url": "https://buycryptopressrelease.com/nft-project-pr/", "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."}}},
-{"sample_id": 3, "as_of": "2027-02-01", "report": {"tool": "NFT Collection Announcement Analyzer", "version": "1.0.0", "project": {"project_name": "Digital Art Society", "symbol": "DAS", "website": "https://digitalartsociety.example", "blockchain": "Solana", "nft_standard": "Metaplex Core", "collection_type": "Digital Art", "marketplace": "Magic Eden", "mint_price": "1 SOL"}, "supply": {"total": 2500, "minted": 0, "remaining": 2500, "minted_percent": 0.0, "status": "Not started"}, "traits": {"count": 6, "names": ["Artist", "Color Palette", "Art Style", "Background", "Theme", "Edition"]}, "schedule": {"as_of": "2027-02-01", "mint": {"date": "2027-04-15", "days_from_today": 73, "status": "Upcoming"}, "reveal": {"date": "2027-04-18", "days_from_today": 76, "status": "Upcoming"}, "days_mint_to_reveal": 3}, "utility": ["Digital art ownership", "Artist community access", "Exclusive artwork releases"], "milestones": {"Completed": [{"title": "Artist Collaboration Announcement", "date": "2027-02-01"}], "Upcoming": [{"title": "NFT Collection Mint", "date": "2027-04-15"}], "Planned": [{"title": "Exclusive Artwork Release", "date": "2027-05-01"}]}, "angles": ["Upcoming NFT collection launch", "NFT mint schedule announcement", "Collection reveal announcement", "Digital Art collection introduction", "Trait and artwork design reveal", "Holder utility and community benefits", "Milestone achieved: Artist Collaboration Announcement", "Roadmap update", "Launch on Solana"], "headlines": ["Digital Art Society Announces Upcoming 2,500 Piece Digital Art NFT Collection on Solana", "Digital Art Society Sets April 15, 2027 Mint Date for Its Digital Art Collection", "Digital Art Society Shares NFT Mint and Collection Reveal Schedule", "Digital Art Society Introduces Six Trait Categories for Its Digital Art Collection", "Digital Art Society Announces Artist Collaboration", "Digital Art Society Shares Roadmap Including Exclusive Artwork Release"], "topics": ["NFT collection launch announcement", "Upcoming mint date announcement", "Digital Art project introduction", "NFT utility and community announcement", "Milestone and partnership announcement", "Roadmap announcement"], "outline": [{"section": "Headline", "text": "Digital Art Society Announces Upcoming 2,500 Piece Digital Art NFT Collection on Solana"}, {"section": "Subheadline", "text": "Digital Art Society: 2,500 NFT collection, built on Solana (Metaplex Core), listed on Magic Eden"}, {"section": "Dateline", "text": "[CITY], [DATE]"}, {"section": "Opening paragraph", "text": "Digital Art Society (DAS), a Digital Art collection on Solana, is scheduled to open its mint on April 15, 2027."}, {"section": "Collection details", "text": "Total supply: 2,500; Minted: 0 (0.0%); Mint price: 1 SOL; Marketplace: Magic Eden"}, {"section": "Art and traits", "text": "6 trait categories: Artist, Color Palette, Art Style, Background, Theme, Edition"}, {"section": "Schedule", "text": "Mint: April 15, 2027; Reveal: April 18, 2027"}, {"section": "Utility (project stated)", "text": "Digital art ownership; Artist community access; Exclusive artwork releases"}, {"section": "Roadmap", "text": "Completed: Artist Collaboration Announcement | Upcoming: NFT Collection Mint | Planned: Exclusive Artwork Release"}, {"section": "Quote", "text": "[Quote from the Digital Art Society founder or lead artist]"}, {"section": "About", "text": "About Digital Art Society: [two sentences] Website: https://digitalartsociety.example"}, {"section": "Media contact", "text": "[Name, email, website]"}, {"section": "Disclaimer", "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."}], "facts": [{"statement": "Total supply is 2,500", "type": "Project data"}, {"statement": "0 NFTs minted as of 2027-02-01", "type": "Project data, verify on chain"}, {"statement": "Mint date 2027-04-15", "type": "Scheduled"}, {"statement": "Reveal date 2027-04-18", "type": "Scheduled"}, {"statement": "Artist Collaboration Announcement", "type": "Completed, keep proof ready"}, {"statement": "NFT Collection Mint", "type": "Upcoming, describe as scheduled"}, {"statement": "Exclusive Artwork Release", "type": "Planned, describe as a plan"}, {"statement": "Digital art ownership", "type": "Project claim"}, {"statement": "Artist community access", "type": "Project claim"}, {"statement": "Exclusive artwork releases", "type": "Project claim"}], "warnings": [], "distribution": {"label": "NFT Project PR", "url": "https://buycryptopressrelease.com/nft-project-pr/", "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."}}}
+  {
+    "sample_id": 1,
+    "as_of": "2027-02-01",
+    "report": {
+      "tool": "NFT Collection Announcement Analyzer",
+      "version": "1.0.0",
+      "project": {
+        "project_name": "MetaPixel Creatures",
+        "symbol": "MPC",
+        "website": "https://metapixel.example",
+        "blockchain": "Ethereum",
+        "nft_standard": "ERC-721",
+        "collection_type": "Generative Art",
+        "marketplace": "OpenSea",
+        "mint_price": "0.05 ETH"
+      },
+      "supply": {
+        "total": 5000,
+        "minted": 1200,
+        "remaining": 3800,
+        "minted_percent": 24.0,
+        "status": "Minting"
+      },
+      "traits": {
+        "count": 8,
+        "names": [
+          "Background",
+          "Body",
+          "Eyes",
+          "Headwear",
+          "Clothing",
+          "Mouth",
+          "Accessories",
+          "Special Effects"
+        ]
+      },
+      "schedule": {
+        "as_of": "2027-02-01",
+        "mint": {
+          "date": "2027-02-15",
+          "days_from_today": 14,
+          "status": "Upcoming"
+        },
+        "reveal": {
+          "date": "2027-02-20",
+          "days_from_today": 19,
+          "status": "Upcoming"
+        },
+        "days_mint_to_reveal": 5
+      },
+      "utility": [
+        "Holder membership",
+        "Digital collectibles",
+        "Community access"
+      ],
+      "milestones": {
+        "Completed": [
+          {
+            "title": "Collection Website Launch",
+            "date": "2027-01-10"
+          }
+        ],
+        "Upcoming": [
+          {
+            "title": "NFT Mint Opening",
+            "date": "2027-02-15"
+          },
+          {
+            "title": "Collection Reveal",
+            "date": "2027-02-20"
+          }
+        ],
+        "Planned": []
+      },
+      "angles": [
+        "NFT mint schedule announcement",
+        "Mint progress update",
+        "Collection reveal announcement",
+        "Generative Art collection introduction",
+        "Trait and artwork design reveal",
+        "Holder utility and community benefits",
+        "Milestone achieved: Collection Website Launch",
+        "Roadmap update",
+        "Launch on Ethereum"
+      ],
+      "headlines": [
+        "MetaPixel Creatures Sets February 15, 2027 Public Mint Date for Its 5,000 Piece Generative Art NFT Collection on Ethereum",
+        "MetaPixel Creatures Reaches 1,200 Minted of 5,000 NFTs",
+        "MetaPixel Creatures Shares NFT Mint and Collection Reveal Schedule",
+        "MetaPixel Creatures Introduces Eight Trait Categories for Its Generative Art Collection",
+        "MetaPixel Creatures Announces Collection Website Launch",
+        "MetaPixel Creatures Outlines Holder Benefits Including Holder Membership"
+      ],
+      "topics": [
+        "NFT collection launch announcement",
+        "Upcoming mint date announcement",
+        "Mint progress and community update",
+        "Generative Art project introduction",
+        "NFT utility and community announcement",
+        "Milestone and partnership announcement",
+        "Roadmap announcement"
+      ],
+      "outline": [
+        {
+          "section": "Headline",
+          "text": "MetaPixel Creatures Sets February 15, 2027 Public Mint Date for Its 5,000 Piece Generative Art NFT Collection on Ethereum"
+        },
+        {
+          "section": "Subheadline",
+          "text": "MetaPixel Creatures: 5,000 NFT collection, built on Ethereum (ERC-721), listed on OpenSea"
+        },
+        {
+          "section": "Dateline",
+          "text": "[CITY], [DATE]"
+        },
+        {
+          "section": "Opening paragraph",
+          "text": "MetaPixel Creatures (MPC), a Generative Art collection on Ethereum, is scheduled to open its mint on February 15, 2027."
+        },
+        {
+          "section": "Collection details",
+          "text": "Total supply: 5,000; Minted: 1,200 (24.0%); Mint price: 0.05 ETH; Marketplace: OpenSea"
+        },
+        {
+          "section": "Art and traits",
+          "text": "8 trait categories: Background, Body, Eyes, Headwear, Clothing, Mouth, Accessories, Special Effects"
+        },
+        {
+          "section": "Schedule",
+          "text": "Mint: February 15, 2027; Reveal: February 20, 2027"
+        },
+        {
+          "section": "Utility (project stated)",
+          "text": "Holder membership; Digital collectibles; Community access"
+        },
+        {
+          "section": "Roadmap",
+          "text": "Completed: Collection Website Launch | Upcoming: NFT Mint Opening; Collection Reveal"
+        },
+        {
+          "section": "Quote",
+          "text": "[Quote from the MetaPixel Creatures founder or lead artist]"
+        },
+        {
+          "section": "About",
+          "text": "About MetaPixel Creatures: [two sentences] Website: https://metapixel.example"
+        },
+        {
+          "section": "Media contact",
+          "text": "[Name, email, website]"
+        },
+        {
+          "section": "Disclaimer",
+          "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."
+        }
+      ],
+      "facts": [
+        {
+          "statement": "Total supply is 5,000",
+          "type": "Project data"
+        },
+        {
+          "statement": "1,200 NFTs minted as of 2027-02-01",
+          "type": "Project data, verify on chain"
+        },
+        {
+          "statement": "Mint date 2027-02-15",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Reveal date 2027-02-20",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Collection Website Launch",
+          "type": "Completed, keep proof ready"
+        },
+        {
+          "statement": "NFT Mint Opening",
+          "type": "Upcoming, describe as scheduled"
+        },
+        {
+          "statement": "Collection Reveal",
+          "type": "Upcoming, describe as scheduled"
+        },
+        {
+          "statement": "Holder membership",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Digital collectibles",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Community access",
+          "type": "Project claim"
+        }
+      ],
+      "warnings": [
+        "Minted supply is above zero but the mint date is in the future. If this is a presale or allowlist mint, say so in the release; otherwise check the numbers."
+      ],
+      "distribution": {
+        "label": "NFT Project PR",
+        "url": "https://buycryptopressrelease.com/nft-project-pr/",
+        "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."
+      }
+    }
+  },
+  {
+    "sample_id": 2,
+    "as_of": "2027-02-01",
+    "report": {
+      "tool": "NFT Collection Announcement Analyzer",
+      "version": "1.0.0",
+      "project": {
+        "project_name": "PixelVerse Legends",
+        "symbol": "PVL",
+        "website": "https://pixelverse.example",
+        "blockchain": "Polygon",
+        "nft_standard": "ERC-721",
+        "collection_type": "Gaming NFT",
+        "marketplace": "OpenSea",
+        "mint_price": "25 MATIC"
+      },
+      "supply": {
+        "total": 10000,
+        "minted": 3500,
+        "remaining": 6500,
+        "minted_percent": 35.0,
+        "status": "Minting"
+      },
+      "traits": {
+        "count": 12,
+        "names": [
+          "Character Class",
+          "Armor",
+          "Weapon",
+          "Power",
+          "Background",
+          "Level",
+          "Accessories",
+          "Skill",
+          "Element",
+          "Helmet",
+          "Pet",
+          "Special Item"
+        ]
+      },
+      "schedule": {
+        "as_of": "2027-02-01",
+        "mint": {
+          "date": "2027-03-10",
+          "days_from_today": 37,
+          "status": "Upcoming"
+        },
+        "reveal": {
+          "date": "2027-03-15",
+          "days_from_today": 42,
+          "status": "Upcoming"
+        },
+        "days_mint_to_reveal": 5
+      },
+      "utility": [
+        "In-game character access",
+        "Digital rewards",
+        "Gaming community membership"
+      ],
+      "milestones": {
+        "Completed": [
+          {
+            "title": "Game Beta Release",
+            "date": "2027-01-20"
+          }
+        ],
+        "Upcoming": [
+          {
+            "title": "NFT Collection Launch",
+            "date": "2027-03-10"
+          }
+        ],
+        "Planned": [
+          {
+            "title": "Gaming Marketplace Integration",
+            "date": "2027-04-01"
+          }
+        ]
+      },
+      "angles": [
+        "NFT mint schedule announcement",
+        "Mint progress update",
+        "Collection reveal announcement",
+        "Blockchain gaming collection introduction",
+        "Trait and artwork design reveal",
+        "Holder utility and community benefits",
+        "Milestone achieved: Game Beta Release",
+        "Roadmap update",
+        "Launch on Polygon"
+      ],
+      "headlines": [
+        "PixelVerse Legends Sets March 10, 2027 Public Mint Date for Its 10,000 Piece Gaming NFT Collection on Polygon",
+        "PixelVerse Legends Reaches 3,500 Minted of 10,000 NFTs",
+        "PixelVerse Legends Shares NFT Mint and Collection Reveal Schedule",
+        "PixelVerse Legends Introduces Twelve Trait Categories for Its Gaming NFT Collection",
+        "PixelVerse Legends Announces Game Beta Release",
+        "PixelVerse Legends Shares Roadmap Including Gaming Marketplace Integration"
+      ],
+      "topics": [
+        "NFT collection launch announcement",
+        "Upcoming mint date announcement",
+        "Mint progress and community update",
+        "Gaming NFT project introduction",
+        "NFT utility and community announcement",
+        "Milestone and partnership announcement",
+        "Roadmap announcement"
+      ],
+      "outline": [
+        {
+          "section": "Headline",
+          "text": "PixelVerse Legends Sets March 10, 2027 Public Mint Date for Its 10,000 Piece Gaming NFT Collection on Polygon"
+        },
+        {
+          "section": "Subheadline",
+          "text": "PixelVerse Legends: 10,000 NFT collection, built on Polygon (ERC-721), listed on OpenSea"
+        },
+        {
+          "section": "Dateline",
+          "text": "[CITY], [DATE]"
+        },
+        {
+          "section": "Opening paragraph",
+          "text": "PixelVerse Legends (PVL), a Gaming NFT collection on Polygon, is scheduled to open its mint on March 10, 2027."
+        },
+        {
+          "section": "Collection details",
+          "text": "Total supply: 10,000; Minted: 3,500 (35.0%); Mint price: 25 MATIC; Marketplace: OpenSea"
+        },
+        {
+          "section": "Art and traits",
+          "text": "12 trait categories: Character Class, Armor, Weapon, Power, Background, Level, Accessories, Skill, Element, Helmet, Pet, Special Item"
+        },
+        {
+          "section": "Schedule",
+          "text": "Mint: March 10, 2027; Reveal: March 15, 2027"
+        },
+        {
+          "section": "Utility (project stated)",
+          "text": "In-game character access; Digital rewards; Gaming community membership"
+        },
+        {
+          "section": "Roadmap",
+          "text": "Completed: Game Beta Release | Upcoming: NFT Collection Launch | Planned: Gaming Marketplace Integration"
+        },
+        {
+          "section": "Quote",
+          "text": "[Quote from the PixelVerse Legends founder or lead artist]"
+        },
+        {
+          "section": "About",
+          "text": "About PixelVerse Legends: [two sentences] Website: https://pixelverse.example"
+        },
+        {
+          "section": "Media contact",
+          "text": "[Name, email, website]"
+        },
+        {
+          "section": "Disclaimer",
+          "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."
+        }
+      ],
+      "facts": [
+        {
+          "statement": "Total supply is 10,000",
+          "type": "Project data"
+        },
+        {
+          "statement": "3,500 NFTs minted as of 2027-02-01",
+          "type": "Project data, verify on chain"
+        },
+        {
+          "statement": "Mint date 2027-03-10",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Reveal date 2027-03-15",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Game Beta Release",
+          "type": "Completed, keep proof ready"
+        },
+        {
+          "statement": "NFT Collection Launch",
+          "type": "Upcoming, describe as scheduled"
+        },
+        {
+          "statement": "Gaming Marketplace Integration",
+          "type": "Planned, describe as a plan"
+        },
+        {
+          "statement": "In-game character access",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Digital rewards",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Gaming community membership",
+          "type": "Project claim"
+        }
+      ],
+      "warnings": [
+        "Minted supply is above zero but the mint date is in the future. If this is a presale or allowlist mint, say so in the release; otherwise check the numbers."
+      ],
+      "distribution": {
+        "label": "NFT Project PR",
+        "url": "https://buycryptopressrelease.com/nft-project-pr/",
+        "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."
+      }
+    }
+  },
+  {
+    "sample_id": 3,
+    "as_of": "2027-02-01",
+    "report": {
+      "tool": "NFT Collection Announcement Analyzer",
+      "version": "1.0.0",
+      "project": {
+        "project_name": "Digital Art Society",
+        "symbol": "DAS",
+        "website": "https://digitalartsociety.example",
+        "blockchain": "Solana",
+        "nft_standard": "Metaplex Core",
+        "collection_type": "Digital Art",
+        "marketplace": "Magic Eden",
+        "mint_price": "1 SOL"
+      },
+      "supply": {
+        "total": 2500,
+        "minted": 0,
+        "remaining": 2500,
+        "minted_percent": 0.0,
+        "status": "Not started"
+      },
+      "traits": {
+        "count": 6,
+        "names": [
+          "Artist",
+          "Color Palette",
+          "Art Style",
+          "Background",
+          "Theme",
+          "Edition"
+        ]
+      },
+      "schedule": {
+        "as_of": "2027-02-01",
+        "mint": {
+          "date": "2027-04-15",
+          "days_from_today": 73,
+          "status": "Upcoming"
+        },
+        "reveal": {
+          "date": "2027-04-18",
+          "days_from_today": 76,
+          "status": "Upcoming"
+        },
+        "days_mint_to_reveal": 3
+      },
+      "utility": [
+        "Digital art ownership",
+        "Artist community access",
+        "Exclusive artwork releases"
+      ],
+      "milestones": {
+        "Completed": [
+          {
+            "title": "Artist Collaboration Announcement",
+            "date": "2027-02-01"
+          }
+        ],
+        "Upcoming": [
+          {
+            "title": "NFT Collection Mint",
+            "date": "2027-04-15"
+          }
+        ],
+        "Planned": [
+          {
+            "title": "Exclusive Artwork Release",
+            "date": "2027-05-01"
+          }
+        ]
+      },
+      "angles": [
+        "Upcoming NFT collection launch",
+        "NFT mint schedule announcement",
+        "Collection reveal announcement",
+        "Digital Art collection introduction",
+        "Trait and artwork design reveal",
+        "Holder utility and community benefits",
+        "Milestone achieved: Artist Collaboration Announcement",
+        "Roadmap update",
+        "Launch on Solana"
+      ],
+      "headlines": [
+        "Digital Art Society Announces Upcoming 2,500 Piece Digital Art NFT Collection on Solana",
+        "Digital Art Society Sets April 15, 2027 Mint Date for Its Digital Art Collection",
+        "Digital Art Society Shares NFT Mint and Collection Reveal Schedule",
+        "Digital Art Society Introduces Six Trait Categories for Its Digital Art Collection",
+        "Digital Art Society Announces Artist Collaboration",
+        "Digital Art Society Shares Roadmap Including Exclusive Artwork Release"
+      ],
+      "topics": [
+        "NFT collection launch announcement",
+        "Upcoming mint date announcement",
+        "Digital Art project introduction",
+        "NFT utility and community announcement",
+        "Milestone and partnership announcement",
+        "Roadmap announcement"
+      ],
+      "outline": [
+        {
+          "section": "Headline",
+          "text": "Digital Art Society Announces Upcoming 2,500 Piece Digital Art NFT Collection on Solana"
+        },
+        {
+          "section": "Subheadline",
+          "text": "Digital Art Society: 2,500 NFT collection, built on Solana (Metaplex Core), listed on Magic Eden"
+        },
+        {
+          "section": "Dateline",
+          "text": "[CITY], [DATE]"
+        },
+        {
+          "section": "Opening paragraph",
+          "text": "Digital Art Society (DAS), a Digital Art collection on Solana, is scheduled to open its mint on April 15, 2027."
+        },
+        {
+          "section": "Collection details",
+          "text": "Total supply: 2,500; Minted: 0 (0.0%); Mint price: 1 SOL; Marketplace: Magic Eden"
+        },
+        {
+          "section": "Art and traits",
+          "text": "6 trait categories: Artist, Color Palette, Art Style, Background, Theme, Edition"
+        },
+        {
+          "section": "Schedule",
+          "text": "Mint: April 15, 2027; Reveal: April 18, 2027"
+        },
+        {
+          "section": "Utility (project stated)",
+          "text": "Digital art ownership; Artist community access; Exclusive artwork releases"
+        },
+        {
+          "section": "Roadmap",
+          "text": "Completed: Artist Collaboration Announcement | Upcoming: NFT Collection Mint | Planned: Exclusive Artwork Release"
+        },
+        {
+          "section": "Quote",
+          "text": "[Quote from the Digital Art Society founder or lead artist]"
+        },
+        {
+          "section": "About",
+          "text": "About Digital Art Society: [two sentences] Website: https://digitalartsociety.example"
+        },
+        {
+          "section": "Media contact",
+          "text": "[Name, email, website]"
+        },
+        {
+          "section": "Disclaimer",
+          "text": "NFTs are digital assets and carry risk. This announcement is for information only and is not financial advice."
+        }
+      ],
+      "facts": [
+        {
+          "statement": "Total supply is 2,500",
+          "type": "Project data"
+        },
+        {
+          "statement": "0 NFTs minted as of 2027-02-01",
+          "type": "Project data, verify on chain"
+        },
+        {
+          "statement": "Mint date 2027-04-15",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Reveal date 2027-04-18",
+          "type": "Scheduled"
+        },
+        {
+          "statement": "Artist Collaboration Announcement",
+          "type": "Completed, keep proof ready"
+        },
+        {
+          "statement": "NFT Collection Mint",
+          "type": "Upcoming, describe as scheduled"
+        },
+        {
+          "statement": "Exclusive Artwork Release",
+          "type": "Planned, describe as a plan"
+        },
+        {
+          "statement": "Digital art ownership",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Artist community access",
+          "type": "Project claim"
+        },
+        {
+          "statement": "Exclusive artwork releases",
+          "type": "Project claim"
+        }
+      ],
+      "warnings": [],
+      "distribution": {
+        "label": "NFT Project PR",
+        "url": "https://buycryptopressrelease.com/nft-project-pr/",
+        "note": "Explore NFT focused media distribution through BuyCryptoPressRelease.com."
+      }
+    }
+  }
 ]
