@@ -1,0 +1,29 @@
+name: Tests
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Python tests
+        run: python -m unittest discover tests
+
+      - name: Python and JavaScript give the same report
+        run: |
+          python nft_announcement_analyzer.py data/nft_collections.json --today 2027-02-01 --format md > py.md
+          node cli.js data/nft_collections.json --today 2027-02-01 --format md > js.md
+          diff py.md js.md
