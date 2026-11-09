@@ -1,0 +1,46 @@
+name: Heartbeat
+on:
+  schedule:
+    - cron: "43 6 */2 * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests and update heartbeat
+        run: |
+          python -m unittest discover tests
+          RESULT=$(python - <<'PY'
+          import json, nft_announcement_analyzer as nft
+          cols = nft.load("data/nft_collections.json")
+          exp = json.load(open("dataset/expected_reports.json"))
+          ok = sum(1 for e in exp if nft.analyze(cols[e["sample_id"] - 1], e["as_of"]) == e["report"])
+          print(f"{ok}/{len(exp)}")
+          PY
+          )
+          {
+            echo "NFT Collection Announcement Analyzer heartbeat"
+            echo "Last update: $(date -u +%Y-%m-%d)"
+            echo "Reference reports matched: $RESULT"
+            echo "Unit tests: passed"
+          } > heartbeat.txt
+          cat heartbeat.txt
+
+      - name: Commit heartbeat
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add heartbeat.txt
+          git diff --cached --quiet || git commit -m "chore: heartbeat update $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push

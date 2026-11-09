@@ -1,0 +1,33 @@
+name: Publish to PyPI
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+jobs:
+  pypi:
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build
+        run: |
+          python -m pip install --upgrade build
+          python -m build
+
+      - name: Test CLI
+        run: |
+          pip install dist/*.whl
+          nft-analyzer data/nft_collections.json --id 1 --today 2027-02-01
+
+      - name: Publish
+        uses: pypa/gh-action-pypi-publish@release/v1
