@@ -1,6 +1,6 @@
 /**
  * nft-collection-announcement-analyzer
- * NFT Collection Announcement Analyzer: library, CLI and browser script.
+ * NFT Collection Announcement Analyzer: library and CLI.
  *
  * Reads NFT collection details (supply, traits, blockchain, mint schedule,
  * utility and milestones) and generates announcement angles, headline ideas,
@@ -21,7 +21,7 @@
 })(typeof self !== "undefined" ? self : this, function () {
   "use strict";
 
-  var VERSION = "1.0.0";
+  var VERSION = "1.0.1";
   var WEBSITE = "https://buycryptopressrelease.com/";
   var NFT_PR_PAGE = "https://buycryptopressrelease.com/nft-project-pr/";
   var REPO = "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer";
