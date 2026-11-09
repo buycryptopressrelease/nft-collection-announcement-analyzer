@@ -2,9 +2,6 @@
 
 Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline. Built by [BuyCryptoPressRelease.com](https://buycryptopressrelease.com/).
 
-!!! tip "Try it online"
-    Open the browser version at [https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/). Nothing you type leaves your browser.
-
 ## Install
 
 ```bash
@@ -182,7 +179,6 @@ Explore NFT focused media distribution through BuyCryptoPressRelease.com. [NFT P
 
 | Platform | URL |
 |---|---|
-| Online tool | https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/ |
 | GitHub | https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer |
 | NPM | https://www.npmjs.com/package/nft-collection-announcement-analyzer |
 | PyPI | https://pypi.org/project/nft-collection-announcement-analyzer/ |
