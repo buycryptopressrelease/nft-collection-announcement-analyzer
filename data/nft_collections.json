@@ -1,0 +1,171 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "project_name": "MetaPixel Creatures",
+      "symbol": "MPC",
+      "website": "https://metapixel.example",
+      "blockchain": "Ethereum",
+      "nft_standard": "ERC-721",
+      "collection_type": "Generative Art",
+      "total_supply": 5000,
+      "minted_supply": 1200,
+      "trait_categories": 8,
+      "traits": [
+        "Background",
+        "Body",
+        "Eyes",
+        "Headwear",
+        "Clothing",
+        "Mouth",
+        "Accessories",
+        "Special Effects"
+      ],
+      "marketplace": "OpenSea",
+      "mint_price": "0.05 ETH",
+      "mint_date": "2027-02-15",
+      "reveal_date": "2027-02-20",
+      "utility": [
+        "Holder membership",
+        "Digital collectibles",
+        "Community access"
+      ],
+      "milestones": [
+        {
+          "title": "Collection Website Launch",
+          "status": "Completed",
+          "date": "2027-01-10"
+        },
+        {
+          "title": "NFT Mint Opening",
+          "status": "Upcoming",
+          "date": "2027-02-15"
+        },
+        {
+          "title": "Collection Reveal",
+          "status": "Upcoming",
+          "date": "2027-02-20"
+        }
+      ],
+      "announcement_angles": [
+        "Upcoming NFT collection launch",
+        "Generative art collection introduction",
+        "NFT mint schedule announcement",
+        "Digital collectibles ecosystem"
+      ],
+      "description": "A generative art collection of digital creatures."
+    },
+    {
+      "id": 2,
+      "project_name": "PixelVerse Legends",
+      "symbol": "PVL",
+      "website": "https://pixelverse.example",
+      "blockchain": "Polygon",
+      "nft_standard": "ERC-721",
+      "collection_type": "Gaming NFT",
+      "total_supply": 10000,
+      "minted_supply": 3500,
+      "trait_categories": 12,
+      "traits": [
+        "Character Class",
+        "Armor",
+        "Weapon",
+        "Power",
+        "Background",
+        "Level",
+        "Accessories",
+        "Skill",
+        "Element",
+        "Helmet",
+        "Pet",
+        "Special Item"
+      ],
+      "marketplace": "OpenSea",
+      "mint_price": "25 MATIC",
+      "mint_date": "2027-03-10",
+      "reveal_date": "2027-03-15",
+      "utility": [
+        "In-game character access",
+        "Digital rewards",
+        "Gaming community membership"
+      ],
+      "milestones": [
+        {
+          "title": "Game Beta Release",
+          "status": "Completed",
+          "date": "2027-01-20"
+        },
+        {
+          "title": "NFT Collection Launch",
+          "status": "Upcoming",
+          "date": "2027-03-10"
+        },
+        {
+          "title": "Gaming Marketplace Integration",
+          "status": "Planned",
+          "date": "2027-04-01"
+        }
+      ],
+      "announcement_angles": [
+        "Gaming NFT collection launch",
+        "NFT utility for blockchain gaming",
+        "Upcoming marketplace integration",
+        "Character collection introduction"
+      ],
+      "description": "Playable characters for the PixelVerse blockchain game."
+    },
+    {
+      "id": 3,
+      "project_name": "Digital Art Society",
+      "symbol": "DAS",
+      "website": "https://digitalartsociety.example",
+      "blockchain": "Solana",
+      "nft_standard": "Metaplex Core",
+      "collection_type": "Digital Art",
+      "total_supply": 2500,
+      "minted_supply": 0,
+      "trait_categories": 6,
+      "traits": [
+        "Artist",
+        "Color Palette",
+        "Art Style",
+        "Background",
+        "Theme",
+        "Edition"
+      ],
+      "marketplace": "Magic Eden",
+      "mint_price": "1 SOL",
+      "mint_date": "2027-04-15",
+      "reveal_date": "2027-04-18",
+      "utility": [
+        "Digital art ownership",
+        "Artist community access",
+        "Exclusive artwork releases"
+      ],
+      "milestones": [
+        {
+          "title": "Artist Collaboration Announcement",
+          "status": "Completed",
+          "date": "2027-02-01"
+        },
+        {
+          "title": "NFT Collection Mint",
+          "status": "Upcoming",
+          "date": "2027-04-15"
+        },
+        {
+          "title": "Exclusive Artwork Release",
+          "status": "Planned",
+          "date": "2027-05-01"
+        }
+      ],
+      "announcement_angles": [
+        "Digital art NFT collection launch",
+        "Artist collaboration announcement",
+        "Upcoming NFT mint event",
+        "Exclusive digital artwork release"
+      ],
+      "description": "A curated digital art collection created with independent artists."
+    }
+  ]
+}
