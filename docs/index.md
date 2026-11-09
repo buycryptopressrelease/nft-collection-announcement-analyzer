@@ -188,6 +188,6 @@ Explore NFT focused media distribution through BuyCryptoPressRelease.com. [NFT P
 | PyPI | https://pypi.org/project/nft-collection-announcement-analyzer/ |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/nft-collection-announcement-dataset |
 | Kaggle | https://www.kaggle.com/datasets/buycryptopr/nft-collection-announcement-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.24091044 |
 | Docs | https://nft-collection-announcement-analyzer.readthedocs.io |
 | NFT Project PR | https://buycryptopressrelease.com/nft-project-pr/ |
