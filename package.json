@@ -1,6 +1,6 @@
 {
   "name": "nft-collection-announcement-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NFT Collection Announcement Analyzer: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline.",
   "main": "analyzer.js",
   "bin": {
@@ -30,7 +30,7 @@
     "generative-art",
     "gaming-nft"
   ],
-  "homepage": "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/",
+  "homepage": "https://buycryptopressrelease.com/nft-project-pr/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer.git"
