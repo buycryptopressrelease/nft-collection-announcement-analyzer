@@ -63,7 +63,8 @@
         "https://pypi.org/project/nft-collection-announcement-analyzer/",
         "https://nft-collection-announcement-analyzer.readthedocs.io",
         "https://huggingface.co/datasets/buycryptopressrelease/nft-collection-announcement-dataset",
-        "https://www.kaggle.com/datasets/buycryptopr/nft-collection-announcement-dataset"
+        "https://www.kaggle.com/datasets/buycryptopr/nft-collection-announcement-dataset",
+        "https://doi.org/10.5281/zenodo.24091044"
       ]
     },
     {
