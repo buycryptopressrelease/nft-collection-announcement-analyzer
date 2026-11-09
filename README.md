@@ -1,6 +1,5 @@
 # NFT Collection Announcement Analyzer 🖼️📣
 
-[![Online tool](https://img.shields.io/badge/try%20it-online-8b5cf6?style=flat-square&labelColor=111827)](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/)
 [![npm](https://img.shields.io/npm/v/nft-collection-announcement-analyzer?style=flat-square&color=8b5cf6&labelColor=111827)](https://www.npmjs.com/package/nft-collection-announcement-analyzer)
 [![PyPI](https://img.shields.io/pypi/v/nft-collection-announcement-analyzer?style=flat-square&color=8b5cf6&labelColor=111827)](https://pypi.org/project/nft-collection-announcement-analyzer/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24091044.svg)](https://doi.org/10.5281/zenodo.24091044)
@@ -8,8 +7,6 @@
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=111827)](LICENSE)
 
 The NFT Collection Announcement Analyzer is a free tool that reads NFT collection details (supply, traits, blockchain, mint schedule, utility and milestones) and turns them into announcement angles, headline ideas, press release topics and a ready to fill press release outline. It is built for NFT founders, artists, Web3 startups, blockchain gaming studios and NFT marketing agencies. Built by [BuyCryptoPressRelease.com](https://buycryptopressrelease.com/).
-
-**Try it in your browser:** [https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/) (nothing you type leaves your browser)
 
 ## Why it exists
 
@@ -45,9 +42,6 @@ NFT teams often have the facts but not the story. This tool organizes the facts 
 | Export Report | Markdown, JSON or TXT |
 
 ## Quick Start
-
-### In the browser
-Open [https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/), load a sample or type your details, and press **Analyze**.
 
 ### Python
 ```bash
@@ -170,7 +164,6 @@ When your announcement is ready, explore NFT focused media distribution through 
 
 | Platform | URL |
 |---|---|
-| Online tool | https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/ |
 | GitHub | https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer |
 | NPM | https://www.npmjs.com/package/nft-collection-announcement-analyzer |
 | PyPI | https://pypi.org/project/nft-collection-announcement-analyzer/ |
