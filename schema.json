@@ -15,11 +15,11 @@
       ]
     },
     {
-      "@type": "WebApplication",
+      "@type": "SoftwareApplication",
       "name": "NFT Collection Announcement Analyzer",
-      "url": "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/",
+      "url": "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer",
       "applicationCategory": "BusinessApplication",
-      "operatingSystem": "Any (web browser)",
+      "operatingSystem": "Windows, macOS, Linux",
       "isAccessibleForFree": true,
       "description": "Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline.",
       "offers": {
@@ -53,7 +53,7 @@
         "JavaScript"
       ],
       "license": "https://opensource.org/licenses/MIT",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "@id": "https://buycryptopressrelease.com/#organization"
       },
