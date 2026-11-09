@@ -3,6 +3,7 @@
 [![Online tool](https://img.shields.io/badge/try%20it-online-8b5cf6?style=flat-square&labelColor=111827)](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/)
 [![npm](https://img.shields.io/npm/v/nft-collection-announcement-analyzer?style=flat-square&color=8b5cf6&labelColor=111827)](https://www.npmjs.com/package/nft-collection-announcement-analyzer)
 [![PyPI](https://img.shields.io/pypi/v/nft-collection-announcement-analyzer?style=flat-square&color=8b5cf6&labelColor=111827)](https://pypi.org/project/nft-collection-announcement-analyzer/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24091044.svg)](https://doi.org/10.5281/zenodo.24091044)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-8b5cf6?style=flat-square&labelColor=111827)](https://nft-collection-announcement-analyzer.readthedocs.io)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=111827)](LICENSE)
 
@@ -175,7 +176,7 @@ When your announcement is ready, explore NFT focused media distribution through 
 | PyPI | https://pypi.org/project/nft-collection-announcement-analyzer/ |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/nft-collection-announcement-dataset |
 | Kaggle | https://www.kaggle.com/datasets/buycryptopr/nft-collection-announcement-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.24091044 |
 | Docs | https://nft-collection-announcement-analyzer.readthedocs.io |
 
 ## Services
