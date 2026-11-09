@@ -1,14 +1,14 @@
 {
   "title": "NFT Collection Announcement Analyzer: Announcement Angles, Headlines and Press Release Outlines from NFT Collection Data",
   "upload_type": "software",
-  "description": "The NFT Collection Announcement Analyzer is a free tool by BuyCryptoPressRelease.com that reads NFT collection details (supply, traits, blockchain, mint schedule, utility and milestones) and generates announcement angles, headline ideas, press release topics, a press release outline and a fact check list. It keeps confirmed facts, scheduled plans and project claims apart, never describes a planned milestone as completed, and flags financial promise language. Includes identical Python (PyPI) and JavaScript (NPM) implementations, a browser version, a Streamlit app, fictional sample collections and reference analyses.",
+  "description": "The NFT Collection Announcement Analyzer is a free tool by BuyCryptoPressRelease.com that reads NFT collection details (supply, traits, blockchain, mint schedule, utility and milestones) and generates announcement angles, headline ideas, press release topics, a press release outline and a fact check list. It keeps confirmed facts, scheduled plans and project claims apart, never describes a planned milestone as completed, and flags financial promise language. Includes identical Python (PyPI) and JavaScript (NPM) implementations, a Streamlit app, fictional sample collections and reference analyses.",
   "creators": [
     {
       "name": "BuyCryptoPressRelease.com"
     }
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "NFT",
     "NFT press release",
@@ -29,11 +29,6 @@
     },
     {
       "identifier": "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    },
-    {
-      "identifier": "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
