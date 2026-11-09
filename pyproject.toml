@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nft-collection-announcement-analyzer"
+version = "1.0.0"
+description = "NFT Collection Announcement Analyzer: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "BuyCryptoPressRelease.com", email = "mojo@wewinconsultants.com" }]
+keywords = ["nft", "nft press release", "nft announcement", "nft launch", "nft mint", "web3", "crypto press release", "headline generator", "generative art", "gaming nft"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Topic :: Office/Business",
+    "Topic :: Text Processing",
+]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.30"]
+
+[project.urls]
+Homepage = "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/"
+Repository = "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer"
+Documentation = "https://nft-collection-announcement-analyzer.readthedocs.io"
+NPM = "https://www.npmjs.com/package/nft-collection-announcement-analyzer"
+"NFT Project PR" = "https://buycryptopressrelease.com/nft-project-pr/"
+
+[project.scripts]
+nft-analyzer = "nft_announcement_analyzer:main"
+
+[tool.setuptools]
+py-modules = ["nft_announcement_analyzer"]

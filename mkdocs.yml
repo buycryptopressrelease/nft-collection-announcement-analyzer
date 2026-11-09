@@ -1,0 +1,21 @@
+site_name: NFT Collection Announcement Analyzer
+site_url: https://nft-collection-announcement-analyzer.readthedocs.io/
+site_description: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline.
+site_author: BuyCryptoPressRelease.com
+repo_url: https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer
+repo_name: buycryptopressrelease/nft-collection-announcement-analyzer
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: amber
+  features:
+    - navigation.sections
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md

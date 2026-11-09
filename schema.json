@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://buycryptopressrelease.com/#organization",
+      "name": "BuyCryptoPressRelease.com",
+      "url": "https://buycryptopressrelease.com/",
+      "email": "mojo@wewinconsultants.com",
+      "sameAs": [
+        "https://buycryptopressrelease.com/",
+        "https://github.com/buycryptopressrelease",
+        "https://huggingface.co/buycryptopressrelease",
+        "https://www.kaggle.com/buycryptopr"
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "name": "NFT Collection Announcement Analyzer",
+      "url": "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Any (web browser)",
+      "isAccessibleForFree": true,
+      "description": "Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "featureList": [
+        "Collection Analyzer",
+        "Supply Analyzer",
+        "Trait Analyzer",
+        "Mint Schedule Analyzer",
+        "Milestone Analyzer",
+        "Headline Generator",
+        "PR Angle Generator",
+        "Press Release Outline",
+        "Fact Check List",
+        "Claim Checker",
+        "Export Report"
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "NFT Collection Announcement Analyzer",
+      "codeRepository": "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer",
+      "programmingLanguage": [
+        "Python",
+        "JavaScript"
+      ],
+      "license": "https://opensource.org/licenses/MIT",
+      "version": "1.0.0",
+      "author": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "sameAs": [
+        "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer",
+        "https://www.npmjs.com/package/nft-collection-announcement-analyzer",
+        "https://pypi.org/project/nft-collection-announcement-analyzer/",
+        "https://nft-collection-announcement-analyzer.readthedocs.io",
+        "https://huggingface.co/datasets/buycryptopressrelease/nft-collection-announcement-dataset",
+        "https://www.kaggle.com/datasets/buycryptopr/nft-collection-announcement-dataset"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "NFT Project Press Release Distribution",
+      "url": "https://buycryptopressrelease.com/nft-project-pr/",
+      "provider": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "description": "NFT press release distribution for collection launches, mint announcements, marketplace news and Web3 art projects."
+    }
+  ]
+}

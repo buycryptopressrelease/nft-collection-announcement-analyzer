@@ -1,0 +1,46 @@
+{
+  "name": "nft-collection-announcement-analyzer",
+  "version": "1.0.0",
+  "description": "NFT Collection Announcement Analyzer: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline.",
+  "main": "analyzer.js",
+  "bin": {
+    "nft-analyzer": "cli.js"
+  },
+  "files": [
+    "analyzer.js",
+    "cli.js",
+    "data/nft_collections.json",
+    "data/nft_collections.csv",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node cli.js data/nft_collections.json --today 2027-02-01 --format json > /dev/null"
+  },
+  "keywords": [
+    "nft",
+    "nft-press-release",
+    "nft-announcement",
+    "nft-launch",
+    "nft-mint",
+    "web3",
+    "crypto-press-release",
+    "headline-generator",
+    "press-release",
+    "generative-art",
+    "gaming-nft"
+  ],
+  "homepage": "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer/issues"
+  },
+  "author": "BuyCryptoPressRelease.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
