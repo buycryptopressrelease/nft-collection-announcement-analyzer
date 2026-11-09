@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nft-collection-announcement-analyzer"
-version = "1.0.0"
+version = "1.0.1"
 description = "NFT Collection Announcement Analyzer: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press release topics and a press release outline."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -24,7 +24,7 @@ classifiers = [
 app = ["streamlit>=1.30"]
 
 [project.urls]
-Homepage = "https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/"
+Homepage = "https://buycryptopressrelease.com/nft-project-pr/"
 Repository = "https://github.com/buycryptopressrelease/nft-collection-announcement-analyzer"
 Documentation = "https://nft-collection-announcement-analyzer.readthedocs.io"
 NPM = "https://www.npmjs.com/package/nft-collection-announcement-analyzer"
